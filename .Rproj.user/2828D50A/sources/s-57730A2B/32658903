@@ -1,14 +1,14 @@
 {
-    "id": "793CB476",
-    "path": "~/Paula/paulaallves.github.io/package.json",
-    "project_path": "package.json",
-    "type": "json",
+    "id": "32658903",
+    "path": "~/Paula/paulaallves.github.io/.gitignore",
+    "project_path": ".gitignore",
+    "type": "gitignore",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1616806494946.0,
+    "created": 1616806887835.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 9,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
