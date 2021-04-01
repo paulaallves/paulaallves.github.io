@@ -1,11 +1,11 @@
 title: Estética Matemática #博客标题
-description: “A matemática, vista corretamente, possui não apenas verdade, mas também suprema beleza ” <br> Bertrand Russell #博客描述
+description: “A matemática, vista corretamente, possui não apenas verdade, mas também suprema beleza ” <br/> Bertrand Russell #博客描述
 keywords: blog,css,html,php #博客关键字
 author: "Paula Freitas"
 
 #title hide and show
-hide: pedro coco
-show: ok
+hide: 
+show: 
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "hydrogen.atlinker.cn" # change this to the base hostname & protocol for your site
