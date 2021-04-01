@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Hello World!
-tags: Hydrogen
+title: Oi pessoas
+tags: Sobre mim
 stickie: true
 ---
 
-Welcome to Hydrogen!<br>If you saw this post, your blog has been successfully deployed.So enjoy the fun of writing now!
+Bem vindos!<br>Meu nome é Paula Freitas, tenho 20 anos e sou estudante de Licenciatura em Matemática.<br> Espero que gostem do conteúdo. :)
 
-> Hello Hydrogen!
