@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Oi pessoas
-tags: Sobre mim
 stickie: true
 ---
 
