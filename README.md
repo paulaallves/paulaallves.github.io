@@ -1,105 +1,160 @@
-# [Square Zero - Dark and Elegant Blog](https://squarezero.github.io/)
+# Jekyll Doc Theme
 
-## [Based off Start Bootstrap - Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/) - Official Jekyll Version
-[Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working contact form powered by [Formspree](https://formspree.io/).
+Go to [the website](https://aksakalli.github.io/jekyll-doc-theme/) for detailed information and demo.
 
-This repository holds the official Jekyll version of Square Zero!
+## Running locally
 
-## Preview
+You need Ruby and gem before starting, then:
 
-[![Clean Blog (Jekyll) Preview](https://startbootstrap.com/assets/img/templates/clean-blog.jpg)](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
+```bash
+# install bundler
+gem install bundler
 
-<img src="https://i.imgur.com/LLwpiPS.png" width="300">
+# clone the project
+git clone https://github.com/aksakalli/jekyll-doc-theme.git
+cd jekyll-doc-theme
 
-## Installation & Setup
+# install dependencies
+bundle install
 
-### Using RubyGems:
-
-When installing the theme using RubyGems, demo images, posts, and pages are not included. Follow the instructions below for complete setup.
-
-1. (Optional) Create a new Jekyll site: `jekyll new my-site`
-2. Replace the current theme in your `Gemfile` with `gem "jekyll-theme-clean-blog"`.
-3. Install the theme: `bundle install`
-4. Replace the current theme in your `_config.yml` file with `theme: jekyll-theme-awesome`.
-5. Build your site: `bundle exec jekyll serve`
-
-Assuming there are no errors and the site is building properly, follow these steps next:
-
-1. Create the following pages if they do not exist already (or change the extension of exsiting markdown files from `.md` to `.html`):
-   - `index.html` - set to `layout: home`
-   - `about.html` - set to `layout: page`
-   - `contact.html` - set to `layout: page`
-   - `posts/index.html` - set to `layout: page` (you will also need to create a `posts` directory)
-2. Configure the `index.html` front matter. Example:
-```
----
-layout: home
-background: '/PATH_TO_IMAGE'
----
-```
-3. Configure the `about.html`, `contact.html`, and `posts/index.html` front matter. Example:
-```
----
-layout: page
-title: Page Title
-description: This is the page description.
-background: '/PATH_TO_IMAGE'
----
-```
-4. For each post in the `_posts` directory, update the front matter. Example:
-```
----
-layout: post
-title: "Post Title"
-subtitle: "This is the post subtitle."
-date: YYYY-MM-DD HH:MM:SS
-background: '/PATH_TO_IMAGE'
----
+# run jekyll with dependencies
+bundle exec jekyll serve
 ```
 
-For reference, look at the [demo repository](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll) to see how the files are set up.
+### Theme Assets
 
+As of the move to support [Github Pages](https://pages.github.com/) a number of files have been relocated to the `/asset` folder.
+- css/
+- fonts/
+- img/
+- js/
+- 404.html
+- allposts.html
+- search.json
 
-5. Build your site: `bundle exec jekyll serve`
+## Docker
 
-### Using Core Files
+Alternatively, you can deploy it using the multi-stage [Dockerfile](Dockerfile)
+that serves files from Nginx for better performance in production.
 
-When using the core files, the demo images, posts, and pages are all included with the download. After following the instructions below, you can then go and change the content of the pages and posts.
+Build the image for your site's `JEKYLL_BASEURL`:
 
-1. [Download](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/archive/master.zip) or Clone the repository.
-2. Update the following configuration settings in your `_config.yml` file:
-   - `baserul`
-   - `url`
-   - `title`
-   - `email` (after setting this setting to a working email address, fill out the form on the contact page and send it - then check your email and verify the address and the form will send you messages when used)
-   - `description`
-   - `author`
-   - `twitter_username` (Optional)
-   - `facebook_username` (Optional)
-   - `github_username` (Optional)
-3. Build your site: `bundle exec jekyll serve`
+```
+docker build --build-arg JEKYLL_BASEURL="/your-base/url" -t jekyll-doc-theme .
+```
 
-## Bugs and Issues
+(or leave it empty for root: `JEKYLL_BASEURL=""`) and serve it:
 
-Please credit the thumbnail artists if you do use others' work.
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/issues) here on GitHub!
+```
+docker run -p 8080:80 jekyll-doc-theme
+```
 
-## About
+## Github Pages
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+The theme is also available to [Github Pages](https://pages.github.com/) by making use of the [Remote Theme](https://github.com/benbalter/jekyll-remote-theme) plugin:
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+**Gemfile**
+```
+# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
+# uncomment the line below. To upgrade, run `bundle update github-pages`.
+gem "github-pages", group: :jekyll_plugins
+```
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+**_config.yml**
+```
+# Configure the remote_theme plugin with the gh-pages branch
+# or the specific tag
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages   
+```
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+### Theme Assets
 
-Square Zero Theme built by [surajk95](https://github.com/surajk95).
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Files from your project will override any theme file with the same name.  For example, the most comment use case for this, would be to modify your sites theme or colors.   To do this, the following steps should be taken:
 
-## Copyright and License
+1) Copy the contents of the `aksakalli/jekyll-doc-theme/asset/css/main.scss` to your own project (maintaining folder structure)
+2) Modify the variables you wish to use prior to the import statements, for example:
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/blob/gh-pages/LICENSE) license.
+```
+// Bootstrap variable overrides
+$grid-gutter-width: 30px !default;
+$container-desktop: (900px + $grid-gutter-width) !default;
+$container-large-desktop: (900px + $grid-gutter-width) !default;
+
+@import // Original import statement
+  {% if site.bootwatch %}
+    "bootswatch/{{site.bootwatch | downcase}}/variables",
+  {% endif %}
+
+  "bootstrap",
+
+  {% if site.bootwatch %}
+    "bootswatch/{{site.bootwatch | downcase}}/bootswatch",
+  {% endif %}
+
+  "syntax-highlighting",
+  "typeahead",
+  "jekyll-doc-theme"
+;
+
+// More custom overrides.
+```
+
+3) Import or override any other theme styles after the standard imports
+
+## Projects using Jekyll Doc Theme
+
+* http://teavm.org/
+* https://ogb.stanford.edu/
+* https://griddb.org/
+* https://su2code.github.io/
+* https://launchany.github.io/mvd-template/
+* https://knowit.github.io/kubernetes-workshop/
+* https://rec.danmuji.org/
+* https://nethesis.github.io/icaro/
+* http://ai.cs.ucl.ac.uk/
+* http://tizonia.org
+* https://lakka-switch.github.io/documentation/
+* https://cs.anu.edu.au/cybersec/issisp2018/
+* http://www.channotation.org/
+* http://nemo.apache.org/
+* https://csuf-acm.github.io/
+* https://extemporelang.github.io/
+* https://media-ed-online.github.io/intro-web-dev-2018spr/
+* https://midlevel.github.io/MLAPI/
+* https://pulp-platform.github.io/ariane/docs/home/
+* https://koopjs.github.io/
+* https://developer.apiture.com/
+* https://contextmapper.github.io/
+* https://www.bruttin.com/CosmosDbExplorer/
+* http://mosaic-lopow.github.io/dash7-ap-open-source-stack/
+* http://www.vstream.ml/
+* http://docs.fronthack.com/
+* https://repaircafeportsmouth.org.uk/
+* http://brotherskeeperkenya.com/
+* https://hschne.at/Fluentast/
+* https://zoe-analytics.eu/
+* https://uli.kmz-brno.cz/
+* https://lime.software/
+* https://weft.aka.farm
+* https://microros.github.io/
+* https://citystoriesucla.github.io/citystories-LA-docs
+* http://lessrt.org/
+* http://kivik.io/
+* https://www.iot-kit.nl/
+* http://justindietz.com/
+* https://universalsplitscreen.github.io/
+* https://docs.oneflowcloud.com/
+* https://actlist.silentsoft.org/
+* https://teevid.github.io
+* https://developer.ipums.org
+* https://osmpersia.github.io (right-to-left)
+* https://ecmlpkdd2019.org
+* https://idle.land
+* https://mqless.com
+* https://muict-seru.github.io/
+* https://www.invoice-x.org
+* https://www.devops.geek.nz
+
+## License
+
+Released under [the MIT license](LICENSE).
