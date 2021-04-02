@@ -22,11 +22,11 @@ Utilizando dessa proporção, Phidias, arquiteto e matemático grego, projetou o
 Muitos outros estudiosos matemáticos se interessaram por essa proporção como Platão, Euclides e Fibonacci. Este último teve uma contribuição essencial ao descobrir uma sequência de números na qual cada termo subsequente corresponde à soma dos dois anteriores.
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, ...
 
-
+![hydrogen](/theme/imagem3.png)
 
 Quando esses números são aplicados às proporções de um retângulo, chegamos ao que em geometria é conhecido como “retângulo de ouro”.
 
-
+![hydrogen](/theme/imagem4.png)
 
 Na natureza encontramos diversas flores, moluscos, arvores e entre outros que apresentam a proporção áurea.
 
@@ -44,15 +44,15 @@ Largura da boca = 1,5 x largura do nariz; <br>
 Largura da face = 5x largura do nariz. </br>
 </center>
 
-
+![hydrogen](/theme/imagem5.png)
 
 Dado isso, foi criada uma espécie de mascara a fim de tornar a visualização dessa proporção de forma mais fácil. O nome dado é máscara de <em> phi </em>, que foi patenteada por volta de 1997, pelo cirurgião plástico norte americano Steven Marquardt.
 
-
+![hydrogen](/theme/imagem6.png)
 
 Atualmente, por meio de <em> softweares </em> que calculam a proporcionalidade no rosto, alguns atores e atrizes são considerados mais belos ou que possuem o rosto mais “perfeito”. Vale ressaltar que nenhuma pessoa de fato possui 100% dessa proporção, mesmo as pessoas consideradas mais bonitas possuem no máximo 92% dessa proporção. 
 
-
+![hydrogen](/theme/imagem7.png)
 
 A máscara de <em> phi </em> nos dias de hoje é usada como ferramenta para cirurgiões plásticos e esteticistas, a fim de deixar a face mais simétrica e harmônica.
 
