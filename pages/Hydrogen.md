@@ -6,6 +6,7 @@ tagline:
 Imagens do texto:
 
 Imagem 1: Proporção áurea.
+
 https://www.significados.com.br/foto/proporcao-aurea-significados-novo.jpg
 
 
@@ -14,6 +15,7 @@ https://i.pinimg.com/originals/b4/b0/ce/b4b0cef4e76387f0f65cdb4f9f50402f.jpg
 
 
 Imagem 3: Sequência de Fibonacci.
+
 https://babyforex.ru/images/babyforex/2019/posledovatelnost-fibonachchi1.jpg
 
 
@@ -33,7 +35,7 @@ Imagem 7: Angelina Jolie proporçao.
 http://saberviver.tv.br/wp-content/uploads/2015/05/jolie-mascara-propor%C3%A7%C3%A3o-aurea.jpg
 
 
-Sites que usei como inspiração:
+Sites usados como inspiração:
 
 https://www.significados.com.br/proporcao-aurea/#:~:text=Propor%C3%A7%C3%A3o%20%C3%A1urea%20ou%20raz%C3%A3o%20%C3%A1urea%20consiste%20numa%20constante,Este%20valor%20%C3%A9%20chamado%20de%20%22n%C3%BAmero%20de%20Ouro%22.
 
