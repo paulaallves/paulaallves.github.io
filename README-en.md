@@ -1,4 +1,5 @@
 #Referências
+
 Lightweight and clean
 
 Follow her footsteps and start your blog journey.
@@ -97,7 +98,7 @@ Finally, if you like it, please give me a star:wink: (thank you!!.
 
 > Thank google for providing translation.
 
-![hydrogen](/theme/author.svg)
+![Referências](/theme/author.svg)
 
 Imagem 1: Proporção áurea.
 https://www.significados.com.br/foto/proporcao-aurea-significados-novo.jpg
