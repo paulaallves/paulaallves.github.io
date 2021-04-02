@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Beleza Matemática
-tags: Estética Matématica
+tags: 
 stickie: true
 ---
 
