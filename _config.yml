@@ -1,14 +1,14 @@
 # Site settings
 title: Project Pages
 description: "An Integrated Scientific Blogging Template"
-url: "https://raw.githubusercontent.com"
+url: "https://projectpages.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: "/paulaallves/paulaallves.github.io/master"
-header-img: img/home-bj.jpg
+baseurl: "/project-pages"
+header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
@@ -32,11 +32,11 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 defaults:
   -
     scope:
-      path: "paulaallves/paulaallves.github.io/master"
+      path: "projects"
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bj.jpg"
+      header-img: "img/home-bg.jpg"
 
 # Prose Settings
 prose:
