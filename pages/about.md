@@ -1,27 +1,21 @@
 ---
 layout: page
-title: about
-tagline: 关于我 ~
+title: Sobre Mim
+tagline: Oi Pessoas
 sitetime: display
 permalink: /about.html
 ---
 
-## #作者
+<br> Bem vindos ao meu site. <br>
+Meu nome é Paula Freitas, tenho 20 anos e sou estudante de Licenciatura em Matemática na UFV-campus Florestal. <br>
+Sempre me interessei tanto pela área da mátematica quanto pela área de estética, quando me deparei com essa vertente que concilia ambas as áreas foi amor a primeira vista.<br>
 
-你可以通过以下方式联系作者
+Espero que gostem do conteúdo. <br/>
 
-QQ: 1316341442
 
-Email: <a href="mailto:lk@atlinker.cn">lk@atlinker.cn</a>
+Instagram: <a href="mailto:https://www.instagram.com/paulallves_/">paulallves_</a>
 
-Github: [link9596](https://github.com/link9596)
+Github: [paulaallves](https://github.com/paulaallves)
 
-## #捐助我
 
-本主题使用免费，也是作者长期工作的结晶，如果你喜欢主题\~想支持作者，欢迎给作者捐赠~
 
-<center>扫下方付款二维码即可向作者捐赠!</center>
-
-![wechat](https://atlinker.cn/pay/wechat.png)
-
-![pay](https://atlinker.cn/pay/apay.png)
