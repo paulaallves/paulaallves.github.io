@@ -1,5 +1,5 @@
 # encoding: utf-8
-
+stickie: true
 Gem::Specification.new do |s|
   s.name          = "Material_Theme_For_Jekyll"
   s.version       = "1.0"
