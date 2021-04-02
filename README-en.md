@@ -99,10 +99,6 @@ Finally, if you like it, please give me a star:wink: (thank you!!.
 
 ![hydrogen](/theme/author.svg)
 
-![](https://img.shields.io/github/repo-size/link9596/hydrogen?color=%23F8BBD0)
-![](https://img.shields.io/github/release/link9596/hydrogen?color=%235C6BC0&label=Version)
-
-
 Imagem 1: Proporção áurea.
 https://www.significados.com.br/foto/proporcao-aurea-significados-novo.jpg
 
@@ -129,6 +125,12 @@ https://marcelascarpa.com.br/wp-content/uploads/2018/02/mascara-de-phi-Marquadt.
 
 Imagem 7: Angelina Jolie proporçao.
 http://saberviver.tv.br/wp-content/uploads/2015/05/jolie-mascara-propor%C3%A7%C3%A3o-aurea.jpg
+
+
+![](https://img.shields.io/github/repo-size/link9596/hydrogen?color=%23F8BBD0)
+![](https://img.shields.io/github/release/link9596/hydrogen?color=%235C6BC0&label=Version)
+
+
 
 
 
