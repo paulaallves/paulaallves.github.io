@@ -98,7 +98,7 @@ Finally, if you like it, please give me a star:wink: (thank you!!.
 
 > Thank google for providing translation.
 
-![Referências](/theme/author.svg)
+![hydrogen](/theme/author.svg)
 
 Imagem 1: Proporção áurea.
 https://www.significados.com.br/foto/proporcao-aurea-significados-novo.jpg
