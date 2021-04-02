@@ -17,7 +17,7 @@ O número de ouro consiste numa constante real algébrica irracional. É represe
 
 Utilizando dessa proporção, Phidias, arquiteto e matemático grego, projetou o Parthenon em 5 a. C. Devido a isso a constante é representada pela letra grega φ <em> (phi) </em>, nome em homenagem ao arquiteto que é considerado o percursor da proporção áurea.
 
-
+![hydrogen](/theme/imagem2.png)
 
 Muitos outros estudiosos matemáticos se interessaram por essa proporção como Platão, Euclides e Fibonacci. Este último teve uma contribuição essencial ao descobrir uma sequência de números na qual cada termo subsequente corresponde à soma dos dois anteriores.
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, ...
