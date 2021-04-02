@@ -4,6 +4,7 @@ title: Sobre Mim
 tagline: Oi Pessoas
 sitetime: display
 permalink: /about.html
+stickie: true
 ---
 
 <br> Bem vindos ao meu site. <br>
