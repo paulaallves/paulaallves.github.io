@@ -25,18 +25,19 @@ Imagem 5: Proporçao do rosto.
 https://5b0988e595225.cdn.sohucs.com/images/20191218/f1b4272022764623a0b3497594f40a5a.jpeg
 
 
-Imagem 6: Máscara de phi.
+Imagem 6: Máscara de phi. <br/>
 https://marcelascarpa.com.br/wp-content/uploads/2018/02/mascara-de-phi-Marquadt.jpg
 
 
-Imagem 7: Angelina Jolie proporçao.
-http://saberviver.tv.br/wp-content/uploads/2015/05/jolie-mascara-propor%C3%A7%C3%A3o-aurea.jpg <br/>
+Imagem 7: Angelina Jolie proporçao. <br/>
+http://saberviver.tv.br/wp-content/uploads/2015/05/jolie-mascara-propor%C3%A7%C3%A3o-aurea.jpg 
 
 
 
 <strong> Sites usados como inspiração: </strong>
 
-site 1: Significado da Proporção áurea.
+
+<br> site 1: Significado da Proporção áurea.
 https://www.significados.com.br/proporcao-aurea/#:~:text=Propor%C3%A7%C3%A3o%20%C3%A1urea%20ou%20raz%C3%A3o%20%C3%A1urea%20consiste%20numa%20constante,Este%20valor%20%C3%A9%20chamado%20de%20%22n%C3%BAmero%20de%20Ouro%22.
 
 
@@ -51,5 +52,5 @@ https://www.vivadecora.com.br/pro/curiosidades/proporcao-aurea/
 
 
 
-site 4: VOCÊ SABE O QUE É A PROPORÇÃO ÁUREA?
+site 4: VOCÊ SABE O QUE É A PROPORÇÃO ÁUREA? <br/>
 https://www.megacurioso.com.br/matematica-e-estatistica/74174-voce-sabe-o-que-e-a-proporcao-aurea.htm
