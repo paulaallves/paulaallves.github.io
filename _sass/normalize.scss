@@ -176,7 +176,10 @@ sub {
  */
 
 img {
-  border: 0;
+    max-width: 50%;
+    margin: 0 auto;
+    padding-top: 10px;
+    border-radius: 50%;
 }
 
 /**
