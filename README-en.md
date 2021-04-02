@@ -1,9 +1,9 @@
-# Hydrogen
+Referências
 Lightweight and clean
 
 Follow her footsteps and start your blog journey.
 
-语言：English | [Chinese](README.md)
+
 
 ![hydrogen](/theme/logo-h.svg)
 
@@ -101,3 +101,34 @@ Finally, if you like it, please give me a star:wink: (thank you!!.
 
 ![](https://img.shields.io/github/repo-size/link9596/hydrogen?color=%23F8BBD0)
 ![](https://img.shields.io/github/release/link9596/hydrogen?color=%235C6BC0&label=Version)
+
+
+Imagem 1: Proporção áurea.
+https://www.significados.com.br/foto/proporcao-aurea-significados-novo.jpg
+
+
+Imagem 2:Pathernon proporção áurea.
+https://i.pinimg.com/originals/b4/b0/ce/b4b0cef4e76387f0f65cdb4f9f50402f.jpg
+
+
+Imagem 3: Sequência de Fibonacci.
+https://babyforex.ru/images/babyforex/2019/posledovatelnost-fibonachchi1.jpg
+
+
+Imagem 4: Retângulo de ouro fibonacci.
+https://th.bing.com/th/id/R3c16556efa595d0d0def141b90b28607?rik=d7PNgPsk9BaWbA&riu=http%3a%2f%2fcincoporoito.com%2fwp-content%2fuploads%2f2016%2f07%2fAurea_02.png&ehk=TsbyaLFQ9ZL%2bejR9D2nhgQx0mczZn8mrWRONEOcjYWU%3d&risl=&pid=ImgRaw
+
+
+Imagem 5: Proporçao do rosto.
+https://5b0988e595225.cdn.sohucs.com/images/20191218/f1b4272022764623a0b3497594f40a5a.jpeg
+
+
+Imagem 6: Máscara de phi.
+https://marcelascarpa.com.br/wp-content/uploads/2018/02/mascara-de-phi-Marquadt.jpg
+
+
+Imagem 7: Angelina Jolie proporçao.
+http://saberviver.tv.br/wp-content/uploads/2015/05/jolie-mascara-propor%C3%A7%C3%A3o-aurea.jpg
+
+
+
