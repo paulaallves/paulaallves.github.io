@@ -41,7 +41,7 @@ Largura do nariz= largura dos olhos; <br>
 Distância interocular= largura do nariz; <br>
 Distância entre os olhos = largura dos olhos; <br>
 Largura da boca = 1,5 x largura do nariz; <br>
-Largura da face = 5x largura do nariz. </br>
+Largura da face = 5x largura do nariz. <br/>
 </center>
 
 ![hydrogen](/theme/imagem5.png)
