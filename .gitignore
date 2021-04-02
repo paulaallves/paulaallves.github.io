@@ -1,4 +1,4 @@
+_site
+node_modules
+Gemfile*
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata
