@@ -28,13 +28,13 @@ Quando esses números são aplicados às proporções de um retângulo, chegamos
 
 ![hydrogen](/theme/imagem4.png)
 
-Na natureza encontramos diversas flores, moluscos, arvores e entre outros que apresentam a proporção áurea.
+Na natureza encontramos diversas flores, moluscos, árvores e entre outros que apresentam a proporção áurea.
 
 Em esculturas, pinturas e construções o conceito do retângulo de ouro foi aplicado diversas vezes, copiando a ideia de harmonia da natureza.
-Por considerarem essa proporção agradável de se ver, teve-se a ideia de busca-la no corpo humano inclusive no rosto.
+Por considerarem essa proporção agradável de se ver, teve-se a ideia de buscá-la no corpo humano inclusive no rosto.
 
 No rosto considerado mais belo as seguintes proporções devem existir:
-<center>
+
 A altura da testa = altura do nariz; <br>
 Altura do nariz = 1/3 inferior à do rosto; <br>
 Largura do nariz= largura dos olhos; <br>
@@ -42,7 +42,7 @@ Distância interocular= largura do nariz; <br>
 Distância entre os olhos = largura dos olhos; <br>
 Largura da boca = 1,5 x largura do nariz; <br>
 Largura da face = 5x largura do nariz. <br/>
-</center>
+
 
 ![hydrogen](/theme/imagem5.png)
 

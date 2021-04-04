@@ -5,4 +5,4 @@ tags:
 stickie: true
 ---
 
-Para abrir os posts, basta clicar no título...
+Para abrir os posts, <strong> basta clicar no título...<strong>
