@@ -36,17 +36,15 @@ Imagem 7:  Angelina Jolie proporçao. <br/>
 
 <strong> Sites usados como inspiração:  </strong>
 
-<br> site 1: Significado da Proporção áurea.
-<https://www.significados.com.br/proporcao-aurea/#:~:text=Propor%C3%A7%C3%A3o%20%C3%A1urea%20ou%20raz%C3%A3o%20%C3%A1urea%20consiste%20numa%20constante,Este%20valor%20%C3%A9%20chamado%20de%20%22n%C3%BAmero%20de%20Ouro%22.>
+<br> site 1: [Significado da Proporção áurea](https://www.significados.com.br/proporcao-aurea/#:~:text=Propor%C3%A7%C3%A3o%20%C3%A1urea%20ou%20raz%C3%A3o%20%C3%A1urea%20consiste%20numa%20constante,Este%20valor%20%C3%A9%20chamado%20de%20%22n%C3%BAmero%20de%20Ouro%22.)
 
 
 
-site 2: A Estética da Matemática ou a Matemática da Estética.
-<https://mat.absolutamente.net/joomla/index.php/textos/corpus-mathematicum/132-a-estetica-da-matematica-ou-a-matematica-da-estetica>
+Site 2: [A Estética da Matemática ou a Matemática da Estética](https://mat.absolutamente.net/joomla/index.php/textos/corpus-mathematicum/132-a-estetica-da-matematica-ou-a-matematica-da-estetica)
 
 
 
-site 3: Entenda o que é proporção áurea e porque ela mudou a história da arquitetura. <br/>
+Site 3: Entenda o que é proporção áurea e porque ela mudou a história da arquitetura. <br/>
 <https://www.vivadecora.com.br/pro/curiosidades/proporcao-aurea/>
 
 

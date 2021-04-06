@@ -11,9 +11,9 @@ Você muito provavelmente já ouviu falar ou até mesmo estudou acerca do númer
 
 O número de ouro consiste numa constante real algébrica irracional. É representada pela divisão de uma reta em dois segmentos (a e b), sendo que quando a soma desses segmentos é dividida pela parte mais longa, o resultado obtido é de aproximadamente 1,61803398875...
 
-
+<p aling= "center">
 ![hydrogen](/theme/imagem1.png)
-
+</p>
 
 Utilizando dessa proporção, Phidias, arquiteto e matemático grego, projetou o Parthenon em 5 a. C. Devido a isso a constante é representada pela letra grega φ <em> (phi) </em>, nome em homenagem ao arquiteto que é considerado o percursor da proporção áurea.
 
