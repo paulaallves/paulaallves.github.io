@@ -36,7 +36,7 @@ tagline:
 
 ## <strong> Sites usados como inspiração:  </strong>
 
-###<br> site 1: [Significado da Proporção áurea](https://www.significados.com.br/proporcao-aurea/#:~:text=Propor%C3%A7%C3%A3o%20%C3%A1urea%20ou%20raz%C3%A3o%20%C3%A1urea%20consiste%20numa%20constante,Este%20valor%20%C3%A9%20chamado%20de%20%22n%C3%BAmero%20de%20Ouro%22.)
+### site 1: [Significado da Proporção áurea](https://www.significados.com.br/proporcao-aurea/#:~:text=Propor%C3%A7%C3%A3o%20%C3%A1urea%20ou%20raz%C3%A3o%20%C3%A1urea%20consiste%20numa%20constante,Este%20valor%20%C3%A9%20chamado%20de%20%22n%C3%BAmero%20de%20Ouro%22.)
 
 
 

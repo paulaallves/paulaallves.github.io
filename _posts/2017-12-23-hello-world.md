@@ -13,7 +13,7 @@ O número de ouro consiste numa constante real algébrica irracional. É represe
 
 
 <p align="center">
-  <img width="266" height="165" src="https://photos.app.goo.gl/5bNzGAUbJejhbjhe6">
+  <img width="266" height="165" src="https://www.significados.com.br/foto/proporcao-aurea-significados-novo.jpg">
 </p>
 
 
