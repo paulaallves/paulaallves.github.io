@@ -19,16 +19,22 @@ O número de ouro consiste numa constante real algébrica irracional. É represe
 
 Utilizando dessa proporção, Phidias, arquiteto e matemático grego, projetou o Parthenon em 5 a. C. Devido a isso a constante é representada pela letra grega φ <em> (phi) </em>, nome em homenagem ao arquiteto que é considerado o percursor da proporção áurea.
 
-![hydrogen](/theme/imagem2.png)
+<p align="center">
+  <img width="266" height="165" src="https://i.pinimg.com/originals/b4/b0/ce/b4b0cef4e76387f0f65cdb4f9f50402f.jpg">
+</p>
 
 Muitos outros estudiosos matemáticos se interessaram por essa proporção como Platão, Euclides e Fibonacci. Este último teve uma contribuição essencial ao descobrir uma sequência de números na qual cada termo subsequente corresponde à soma dos dois anteriores. <br/>
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, ...
 
-![hydrogen](/theme/imagem3.png)
+<p align="center">
+  <img width="266" height="165" src="https://babyforex.ru/images/babyforex/2019/posledovatelnost-fibonachchi1.jpg">
+</p>
 
 Quando esses números são aplicados às proporções de um retângulo, chegamos ao que em geometria é conhecido como “retângulo de ouro”.
 
-![hydrogen](/theme/imagem4.png)
+<p align="center">
+  <img width="266" height="165" src="https://th.bing.com/th/id/R3c16556efa595d0d0def141b90b28607?rik=d7PNgPsk9BaWbA&riu=http%3a%2f%2fcincoporoito.com%2fwp-content%2fuploads%2f2016%2f07%2fAurea_02.png&ehk=TsbyaLFQ9ZL%2bejR9D2nhgQx0mczZn8mrWRONEOcjYWU%3d&risl=&pid=ImgRaw">
+</p>
 
 Na natureza encontramos diversas flores, moluscos, árvores e entre outros que apresentam a proporção áurea.
 
@@ -36,7 +42,7 @@ Em esculturas, pinturas e construções o conceito do retângulo de ouro foi apl
 Por considerarem essa proporção agradável de se ver, teve-se a ideia de buscá-la no corpo humano inclusive no rosto.
 
 No rosto considerado mais belo as seguintes proporções devem existir:
-
+<center>
 A altura da testa = altura do nariz; <br>
 Altura do nariz = 1/3 inferior à do rosto; <br>
 Largura do nariz= largura dos olhos; <br>
@@ -44,13 +50,18 @@ Distância interocular= largura do nariz; <br>
 Distância entre os olhos = largura dos olhos; <br>
 Largura da boca = 1,5 x largura do nariz; <br>
 Largura da face = 5x largura do nariz. <br/>
+<center>
 
+<p align="center">
+  <img width="266" height="165" src="https://5b0988e595225.cdn.sohucs.com/images/20191218/f1b4272022764623a0b3497594f40a5a.jpeg>
+</p>
 
-![hydrogen](/theme/imagem5.png)
 
 Dado isso, foi criada uma espécie de mascara a fim de tornar a visualização dessa proporção de forma mais fácil. O nome dado é máscara de <em> phi </em>, que foi patenteada por volta de 1997, pelo cirurgião plástico norte americano Steven Marquardt.
 
-![hydrogen](/theme/imagem6.png)
+<p align="center">
+  <img width="266" height="165" src="https://marcelascarpa.com.br/wp-content/uploads/2018/02/mascara-de-phi-Marquadt.jpg>
+</p>
 
 Atualmente, por meio de <em> softweares </em> que calculam a proporcionalidade no rosto, alguns atores e atrizes são considerados mais belos ou que possuem o rosto mais “perfeito”. Vale ressaltar que nenhuma pessoa de fato possui 100% dessa proporção, mesmo as pessoas consideradas mais bonitas possuem no máximo 92% dessa proporção. 
 
