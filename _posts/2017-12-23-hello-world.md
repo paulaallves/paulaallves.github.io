@@ -42,7 +42,7 @@ Em esculturas, pinturas e construções o conceito do retângulo de ouro foi apl
 Por considerarem essa proporção agradável de se ver, teve-se a ideia de buscá-la no corpo humano inclusive no rosto.
 
 No rosto considerado mais belo as seguintes proporções devem existir:
-<center>
+
 A altura da testa = altura do nariz; <br>
 Altura do nariz = 1/3 inferior à do rosto; <br>
 Largura do nariz= largura dos olhos; <br>
@@ -50,7 +50,7 @@ Distância interocular= largura do nariz; <br>
 Distância entre os olhos = largura dos olhos; <br>
 Largura da boca = 1,5 x largura do nariz; <br>
 Largura da face = 5x largura do nariz. <br/>
-<center>
+
 
 <p align="center">
   <img width="266" height="165" src="https://5b0988e595225.cdn.sohucs.com/images/20191218/f1b4272022764623a0b3497594f40a5a.jpeg>
