@@ -3,7 +3,7 @@ layout: page
 title: Referências
 tagline: 
 ---
-<strong> Imagens do texto:  </strong>
+#<strong> Imagens do texto:  </strong> </h2>
 
 <br> Imagem 1: Proporção áurea. <br>
 <https://www.significados.com.br/foto/proporcao-aurea-significados-novo.jpg>
@@ -44,10 +44,8 @@ Site 2: [A Estética da Matemática ou a Matemática da Estética](https://mat.a
 
 
 
-Site 3: Entenda o que é proporção áurea e porque ela mudou a história da arquitetura. <br/>
-<https://www.vivadecora.com.br/pro/curiosidades/proporcao-aurea/>
+Site 3: [Entenda o que é proporção áurea e porque ela mudou a história da arquitetura](https://www.vivadecora.com.br/pro/curiosidades/proporcao-aurea)
 
 
 
-site 4:  VOCÊ SABE O QUE É A PROPORÇÃO ÁUREA? <br/>
-<https://www.megacurioso.com.br/matematica-e-estatistica/74174-voce-sabe-o-que-e-a-proporcao-aurea.htm>
+Site 4:  [VOCÊ SABE O QUE É A PROPORÇÃO ÁUREA?](https://www.megacurioso.com.br/matematica-e-estatistica/74174-voce-sabe-o-que-e-a-proporcao-aurea.htm)
