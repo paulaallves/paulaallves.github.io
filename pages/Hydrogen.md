@@ -3,7 +3,7 @@ layout: page
 title: Referências
 tagline: 
 ---
-#<strong> Imagens do texto:  </strong> </h2>
+#<strong> Imagens do texto:<h2>  </strong> 
 
 <br> Imagem 1: Proporção áurea. <br>
 <https://www.significados.com.br/foto/proporcao-aurea-significados-novo.jpg>
