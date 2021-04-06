@@ -5,7 +5,7 @@ tagline:
 ---
 ## <strong> Imagens do texto:  </strong>
 
-### <br> Imagem 1:### Proporção áurea. <br>
+### <br> Imagem 1: Proporção áurea. <br>
 <https://www.significados.com.br/foto/proporcao-aurea-significados-novo.jpg>
 
 
