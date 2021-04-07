@@ -60,7 +60,7 @@ Largura da face = 5x largura do nariz. <br/>
 Dado isso, foi criada uma espécie de mascara a fim de tornar a visualização dessa proporção de forma mais fácil. O nome dado é máscara de <em> phi </em>, que foi patenteada por volta de 1997, pelo cirurgião plástico norte americano Steven Marquardt.
 
 <p align="center">
-  <img width="265" height="300" src="https://marcelascarpa.com.br/wp-content/uploads/2018/02/masrcarta-de-phi-Marquadt-265x300.jpg">
+  <img width="266" height="300" src="https://i.pinimg.com/originals/06/8e/dc/068edc13ab628665f7bb01c1c330fe1c.jpg">
 </p>
 
 Atualmente, por meio de <em> softweares </em> que calculam a proporcionalidade no rosto, alguns atores e atrizes são considerados mais belos ou que possuem o rosto mais “perfeito”. Vale ressaltar que nenhuma pessoa de fato possui 100% dessa proporção, mesmo as pessoas consideradas mais bonitas possuem no máximo 92% dessa proporção. 
