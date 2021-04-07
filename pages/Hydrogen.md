@@ -26,7 +26,7 @@ tagline:
 
 
 #### Imagem 6:  Máscara de phi. 
-<https://marcelascarpa.com.br/wp-content/uploads/2018/02/masrcarta-de-phi-Marquadt-265x300.jpg>
+<https://i.pinimg.com/originals/f4/76/94/f4769440c4528755bb7a31c290bfad80.png>
 
 
 #### Imagem 7:  Angelina Jolie proporçao. 
