@@ -80,7 +80,9 @@ Dado isso, foi criada uma espécie de mascara a fim de tornar a visualização d
 Atualmente, por meio de <em> softweares </em> que calculam a proporcionalidade no rosto, alguns atores e atrizes são considerados mais belos ou que possuem o rosto mais “perfeito”. Vale ressaltar que nenhuma pessoa de fato possui 100% dessa proporção, mesmo as pessoas consideradas mais bonitas possuem no máximo 92% dessa proporção. 
 </p>
 
+
 ![hydrogen](/theme/imagem7.png)
+
 
 <p align="justify">
 A máscara de <em> phi </em> nos dias de hoje é usada como ferramenta para cirurgiões plásticos e esteticistas, a fim de deixar a face mais simétrica e harmônica.
