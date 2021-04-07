@@ -81,7 +81,9 @@ Atualmente, por meio de <em> softweares </em> que calculam a proporcionalidade n
 </p>
 
 
-![hydrogen](/theme/imagem7.png)
+<p align="center">
+  <img width="300" height="114" src="http://saberviver.tv.br/wp-content/uploads/2015/05/jolie-mascara-propor%C3%A7%C3%A3o-aurea.jpg">
+</p>
 
 
 <p align="justify">
