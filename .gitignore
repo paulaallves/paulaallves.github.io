@@ -1,4 +1,5 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+_site
+.DS_Store
+*.swp
+.sass-cache
+
