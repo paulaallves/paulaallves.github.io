@@ -36,7 +36,7 @@ header {
 }
 
 .site-logo {
-    max-width: 35%;
+    max-width: 30%;
     height: auto;
     margin: 0 auto;
 }
@@ -83,7 +83,7 @@ footer {
 }
 
 .ui.transparent.icon.input input:focus {
-    color: rgba(255, 255, 255, .75) !important;
+    color: rgba(60, 60, 60, 1) !important;
 }
 
 /* /footer */
