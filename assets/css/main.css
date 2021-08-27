@@ -32,7 +32,7 @@ header {
     margin: 0 auto;
     background-image: url(/assets/img/bg.jpg);
     background-size: cover;
-    color: rgba(40, 60, 60, 1);
+    color: rgba(100, 0, 0, 1);
 }
 
 .site-logo {
