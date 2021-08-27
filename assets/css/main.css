@@ -33,6 +33,7 @@ header {
     background-image: url(/assets/img/bg.jpg);
     background-size: cover;
     color: rgba(100, 0, 0, 1);
+    background-color: white;
 }
 
 .site-logo {
