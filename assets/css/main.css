@@ -32,7 +32,7 @@ header {
     margin: 0 auto;
     background-image: url(/assets/img/bg.jpg);
     background-size: cover;
-    color: rgba(100, 0, 0, 1);
+    color: rgba(100, 100, 100, 1);
     background-color: black;
 }
 
@@ -68,7 +68,7 @@ header {
 /* footer */
 
 footer {
-    color: rgba(60, 60, 60, 1) !important;    
+    color: rgba(100, 0, 0, 1) !important;    
     background-color: black;
     height: 6rem;
     padding-top: 1rem;
@@ -80,11 +80,11 @@ footer {
 }
 
 .ui.transparent.icon.input {
-    color: rgba(60, 60, 60, 1) !important;
+    color: rgba(100, 0, 0, 1) !important;
 }
 
 .ui.transparent.icon.input input:focus {
-    color: rgba(60, 60, 60, 1) !important;
+    color: rgba(100, 0, 0, 1) !important;
 }
 
 /* /footer */
