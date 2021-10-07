@@ -33,7 +33,7 @@ header {
     background-image: url(/assets/img/bg.jpg);
     background-size: cover;
     color: rgba(0, 0, 0, 1);
-    background-color: black;
+    background-color: white;
 }
 
 .site-logo {
@@ -69,7 +69,7 @@ header {
 
 footer {
     color: rgba(0, 0, 0, 1) !important;    
-    background-color: black;
+    background-color: white;
     height: 6rem;
     padding-top: 1rem;
 }
